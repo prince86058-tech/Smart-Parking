@@ -1,0 +1,24 @@
+AI Usage Disclosure
+Course: TLIM 3355 – Dr. Otto Dobretsberger
+Assignment: HW 1 – Project Kickoff
+Student Name: Prince Williams
+CougarNet ID: 2255525
+
+1. Tool Used:
+Google Gemini (Public Web, Temporary Session)
+
+2. Purpose of AI Assistance:
+Used to explore industry competitor strengths and weaknesses (SpotHero, ParkMobile) and obtain standard structural formatting conventions for software use cases and SRS scope definitions.
+
+3. Prompts Used:
+- "What are the common weaknesses of parking apps like SpotHero and ParkMobile?"
+- "Provide a standard functional requirements template and use case format for a smart parking management system."
+- "Explain the typical components of an SRS scope section for a municipal software project."
+- "Draft 15 system use cases for a municipal smart parking application covering drivers, operators, and admins."
+
+4. What Was Kept vs. What Was Changed:
+- Kept: General structural formatting conventions (Preconditions, Steps, Postconditions format for use cases), as well as the fifteen drafts of cases involved.
+- Changed: All project content, company framing (HighTech Software Solutions), municipal RFP requirements, and system logic. No course documents, lecture slides, or assignment rubrics were uploaded or pasted into the tool. All parts were manually verified.
+
+5. Compliance Note:
+Prompts were formulated entirely in my own words without transmitting proprietary course documents to a public server. I initially used Gemini, and then when I consulted the AI Policy, I will ensure that all subsequent phases will continue following UH and course data-protection guidelines.
