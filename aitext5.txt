@@ -1,0 +1,17 @@
+Generative AI Usage Acknowledgment Report
+Project Title: Smart Parking Platform 
+Author: Prince Williams 
+AI Tool Used: Gemini (Google)
+Date: October 8, 2026
+1. Declaration of AI Assistance
+I acknowledge the use of Gemini to assist in developing project management artifacts, specifically in structuring the project resource allocation, cost planning categories, and the responsibility assignment matrix (RACI) for the Smart Parking Platform. All AI-generated outputs were cross-referenced against the Software Requirements Specification (SRS) and team ownership structure to ensure project accuracy. 
+2. Key Prompts & Output Utilization
+* Task 1: RACI Responsibility Assignment Matrix
+o Prompt: "Create a very short RACI matrix based on the project team roles and system deliverables."
+o How Output Was Used: The AI mapped the primary project stakeholders (Founder/Lead, Senior Advisor, Junior Software Engineers, and Investor) across key deliverables—including system oversight, software architecture, multi-platform development, and sensor hardware deployment. This produced a clear, single-view governance matrix defining who is Responsible, Accountable, Consulted, and Informed for each project phase. 
+* Task 2: Resource & Cost Plan Breakdown
+o Prompt: "Create resources and cost plan portion based on this file. Make it simple."
+o How Output Was Used: The AI organized the team structure, infrastructure requirements (cloud hosting, IoT sensors, payment gateways), and anticipated expenditures (CapEx vs. OpEx) directly aligned with the project scope and risk register. 
+3. Author Verification
+All final deliverable classifications, accountability delegations, and project estimates were reviewed, refined, and validated by the author to reflect the operational realities of the Smart Parking Platform project. 
+
